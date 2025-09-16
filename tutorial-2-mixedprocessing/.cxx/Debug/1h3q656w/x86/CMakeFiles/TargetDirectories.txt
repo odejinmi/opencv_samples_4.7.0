@@ -1,0 +1,3 @@
+C:/Users/DELL/Downloads/OpenCV-4.7.0/samples/tutorial-2-mixedprocessing/.cxx/Debug/1h3q656w/x86/CMakeFiles/mixed_sample.dir
+C:/Users/DELL/Downloads/OpenCV-4.7.0/samples/tutorial-2-mixedprocessing/.cxx/Debug/1h3q656w/x86/CMakeFiles/edit_cache.dir
+C:/Users/DELL/Downloads/OpenCV-4.7.0/samples/tutorial-2-mixedprocessing/.cxx/Debug/1h3q656w/x86/CMakeFiles/rebuild_cache.dir

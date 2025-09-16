@@ -1,0 +1,1 @@
+C:\Users\DELL\Downloads\OpenCV-4.7.0\sdk\build\intermediates\cxx\RelWithDebInfo\12673l4k\obj\arm64-v8a

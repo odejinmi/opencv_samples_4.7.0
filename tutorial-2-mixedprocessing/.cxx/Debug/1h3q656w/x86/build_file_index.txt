@@ -1,0 +1,1 @@
+C:\Users\DELL\Downloads\OpenCV-4.7.0\samples\tutorial-2-mixedprocessing\jni\CMakeLists.txt

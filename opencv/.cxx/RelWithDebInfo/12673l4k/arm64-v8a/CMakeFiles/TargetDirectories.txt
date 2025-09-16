@@ -1,0 +1,3 @@
+C:/Users/DELL/Downloads/OpenCV-4.7.0/sdk/.cxx/RelWithDebInfo/12673l4k/arm64-v8a/CMakeFiles/opencv_jni_shared.dir
+C:/Users/DELL/Downloads/OpenCV-4.7.0/sdk/.cxx/RelWithDebInfo/12673l4k/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/DELL/Downloads/OpenCV-4.7.0/sdk/.cxx/RelWithDebInfo/12673l4k/arm64-v8a/CMakeFiles/rebuild_cache.dir

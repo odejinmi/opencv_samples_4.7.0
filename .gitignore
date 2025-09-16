@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/build/
+/face-detection/build/
+/tutorial-2-mixedprocessing/build/

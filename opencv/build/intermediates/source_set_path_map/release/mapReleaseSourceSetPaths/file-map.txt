@@ -1,0 +1,7 @@
+org.opencv-pngs-0 C:\Users\DELL\Downloads\OpenCV-4.7.0\samples\opencv\build\generated\res\pngs\release
+org.opencv-resValues-1 C:\Users\DELL\Downloads\OpenCV-4.7.0\samples\opencv\build\generated\res\resValues\release
+org.opencv-mergeReleaseResources-2 C:\Users\DELL\Downloads\OpenCV-4.7.0\samples\opencv\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+org.opencv-mergeReleaseResources-3 C:\Users\DELL\Downloads\OpenCV-4.7.0\samples\opencv\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+org.opencv-release-4 C:\Users\DELL\Downloads\OpenCV-4.7.0\samples\opencv\build\intermediates\merged_res\release\mergeReleaseResources
+org.opencv-java-5 C:\Users\DELL\Downloads\OpenCV-4.7.0\samples\opencv\java\res
+org.opencv-release-6 C:\Users\DELL\Downloads\OpenCV-4.7.0\samples\opencv\src\release\res
